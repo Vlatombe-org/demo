@@ -59,6 +59,7 @@
 				<version>2.22.1</version>
 				<configuration>
 					<forkCount>0</forkCount>
+					<argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 				</configuration>
 			</plugin>
 		</plugins>
